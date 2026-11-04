@@ -3,7 +3,7 @@ message: "If you use this software, please cite the companion article."
 title: "markersub"
 version: 0.1.0
 license: MIT
-# repository-code: <add the repository URL>
+repository-code: "https://github.com/maipatrick/markersub"
 # date-released: <add the release date>
 authors:
   - family-names: Mai

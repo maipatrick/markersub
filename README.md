@@ -21,7 +21,7 @@ https://github.com/pyomeca/ezc3d); files written by ezc3d carry an `EZC3D` param
 with its version and contact address, as in the example data.
 
 ```bash
-git clone <repository url>
+git clone https://github.com/maipatrick/markersub.git
 cd markersub
 pip install -e .[test,plot]  # installs numpy, scipy, pandas, ezc3d, pytest and matplotlib
 python examples/run_example.py
