@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the companion article."
+title: "markersub"
+version: 0.1.0
+license: MIT
+# repository-code: <add the repository URL>
+# date-released: <add the release date>
+authors:
+  - family-names: Mai
+    given-names: Patrick
+preferred-citation:
+  type: article
+  title: "Which landmarks limit markerless knee frontal-plane biomechanics? A marker substitution analysis in cutting"
+  authors:
+    - family-names: Mai
+      given-names: Patrick
+    - family-names: Bill
+      given-names: Kevin
+    - family-names: Mausehund
+      given-names: Lasse
+    - family-names: Rice
+      given-names: Hannah
+    - family-names: Werkhausen
+      given-names: Amelie
+    - family-names: Willwacher
+      given-names: Steffen
+    - family-names: Pasanen
+      given-names: Kati
+    - family-names: Krosshaug
+      given-names: Tron
+  journal: "Gait & Posture"
+  status: submitted
